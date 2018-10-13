@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+
